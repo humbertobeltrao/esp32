@@ -1,0 +1,12 @@
+{
+  "firmware_versions" : [
+    {
+      "name": "V1",
+      "url" : ""
+    },
+    {
+      "name": "V2",
+      "url" : ""
+    }
+  ]
+}
